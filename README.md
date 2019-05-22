@@ -5,14 +5,13 @@ ______      _______ _____ _______        _______
 ```
 _**Random Title**_ By Harry Ghazni / COPYRIGHT 2019
 
+=> https://github.com/hghazni/random-title
 
 => [NPM Module](https://www.npmjs.com/package/@hghazni/random-title)
 
 => [Harry Ghazni](http://www.hghazni.com)
 
-=> https://github.com/hghazni
 
-=> https://github.com/hghazni/eat
 
 Generates a random title...yeah.
 
