@@ -1,4 +1,16 @@
-# @hghazni/random-title
+```
+______ _______ __   _ ______   _____  _______      _______ _____ _______        _______
+|_____/ |_____| | \  | |     \ |     | |  |  |         |      |      |    |      |______
+|    \_ |     | |  \_| |_____/ |_____| |  |  |         |    __|__    |    |_____ |______
+```
+
+ By Harry Ghazni / COPYRIGHT 2019
+
+=> [https://hghazni.com]
+
+=> [https://github.com/hghazni]
+
+=> [https://github.com/hghazni/eat]
 
 Generates a random title...yeah.
 
