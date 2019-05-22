@@ -8,7 +8,7 @@ _**Random Title**_ By Harry Ghazni / COPYRIGHT 2019
 
 => [NPM Module](https://www.npmjs.com/package/@hghazni/random-title)
 
-=> [Harry Ghazni](https://hghazni.com)
+=> [Harry Ghazni](http://www.hghazni.com)
 
 => https://github.com/hghazni
 
