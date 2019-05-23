@@ -12,8 +12,10 @@ By Harry Ghazni / COPYRIGHT 2019
  => htttps://github.com/hghazni/eat
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-*/
 
+var exports = module.exports = {}
+
 // declare function
-function rtitle(options,...message) {
+exports.rtitle = function(options,...message) {
 
   // Options
   var options = {
