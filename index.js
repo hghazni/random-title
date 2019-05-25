@@ -13,7 +13,7 @@ By Harry Ghazni / COPYRIGHT 2019
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-*/
 
 // declare function
-module.exports.rtitle = function(options,...message) {
+function rtitle(options,...message) {
 
   // Options
   var options = {
@@ -29,3 +29,5 @@ module.exports.rtitle = function(options,...message) {
   // output to element
   titleElement.innerHTML += `<h1>${randomTitle}</h1>`
 }
+
+export default rtitle;
