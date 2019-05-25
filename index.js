@@ -12,8 +12,6 @@ By Harry Ghazni / COPYRIGHT 2019
  => htttps://github.com/hghazni/eat
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-*/
 
-var exports = module.exports = {}
-
 // declare function
 exports.rtitle = function(options,...message) {
 
@@ -30,4 +28,6 @@ exports.rtitle = function(options,...message) {
   const randomTitle = titleArray[Math.floor(Math.random()*titleArray.length)];
   // output to element
   titleElement.innerHTML += `<h1>${randomTitle}</h1>`
+
+  console.log('rtitle is loaded');
 }
