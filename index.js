@@ -28,6 +28,4 @@ exports.rtitle = function(options,...message) {
   const randomTitle = titleArray[Math.floor(Math.random()*titleArray.length)];
   // output to element
   titleElement.innerHTML += `<h1>${randomTitle}</h1>`
-
-  console.log('rtitle is loaded');
 }
