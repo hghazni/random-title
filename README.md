@@ -11,21 +11,22 @@ Configure it with as many strings as you want, I've used 3 as an example.
 
 ```
 <script type="module">
+
 import rtitle from './node_modules/@hghazni/random-title/index.js';
 
-    rtitle(
-        //element ID you wish the title to go in
-        {element: 'rtitle'},
+rtitle(
+    //element ID you wish the title to go in
+    {element: 'rtitle'},
 
-        //string 1
-        'Title numero 1',
+    //string 1
+    'Title numero 1',
 
-        //string 2
-        'Title numero 2',
+    //string 2
+    'Title numero 2',
 
-        //string 3
-        'Title numero 3'
-        );
+    //string 3
+    'Title numero 3'
+);
 </script>
 ```
 
