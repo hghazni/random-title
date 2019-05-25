@@ -13,7 +13,7 @@ By Harry Ghazni / COPYRIGHT 2019
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-*/
 
 // declare function
-exports.rtitle = function(options,...message) {
+module.exports.rtitle = function(options,...message) {
 
   // Options
   var options = {
